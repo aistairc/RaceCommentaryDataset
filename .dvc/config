@@ -1,0 +1,9 @@
+[core]
+    analytics = false
+    remote = storage
+    autostage = true
+[cache]
+    type = "hardlink,symlink"
+['remote "storage"']
+    url = s3://nedo3-dvc/RaceCommentaryDataset
+    region = ap-northeast-1
