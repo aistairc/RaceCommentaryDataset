@@ -1,0 +1,5 @@
+outs:
+- md5: 595eb149dce34774c1b5bcc06cd9fd82.dir
+  size: 2639880032
+  nfiles: 100
+  path: valid
